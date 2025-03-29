@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing a new index page on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Testing a new index page on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Mar 2025 17:04:51 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testcontent</title>
+      <link>http://localhost:1313/testcontent/</link>
+      <pubDate>Fri, 28 Mar 2025 17:04:51 -0700</pubDate>
+      <guid>http://localhost:1313/testcontent/</guid>
+      <description>&lt;p&gt;The purpose of this page is to test a &lt;a href=&#34;https://github.com&#34;&gt;hyperlink on a content page&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
